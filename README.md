@@ -80,7 +80,7 @@ The game requires the following assets in the sketch directory:
 - **Directional inputs**: Movement
 - **Bomb button**: Place bomb
 
-- ### Player 2 (Arduino)
+### Player 2 (Arduino)
 - **Directional inputs**: Movement
 - **Bomb button**: Place bomb
 - 
