@@ -1,4 +1,4 @@
-# Bomberman Game - Wearables and Nearables Project
+# Bomberman Game
 
 A two-player Bomberman-style game developed for the Wearables and Nearables class (Fall 2024) using Processing and Arduino hardware controls.
 
