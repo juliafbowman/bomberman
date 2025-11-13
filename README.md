@@ -2,6 +2,8 @@
 
 A two-player Bomberman-style game developed for the Wearables and Nearables class (Fall 2024) using Processing and Arduino hardware controls.
 
+<img width="795" height="597" alt="Screenshot 2025-11-12 at 11 16 26 PM" src="https://github.com/user-attachments/assets/2b1fbc6e-7d62-40cf-8138-22ffd1c7a05e" />
+
 ## Overview
 
 This is a classic bomb-placement battle game where two players compete to eliminate each other using strategically placed bombs. The game features animated characters, collectible power-ups, destructible walls, and sound effects.
@@ -109,6 +111,8 @@ BOMB_PRESS
 - **Grid System**: 40px tiles on 800x600 canvas
 - **Victory Condition**: Eliminate opponent with bomb explosion
 - **Safe Spawn**: 3-tile radius around starting positions remains clear
+
+![boom](https://github.com/user-attachments/assets/0727f4e9-8ef4-49c5-857a-a9a8fe118289)
 
 ## Setup Instructions
 
