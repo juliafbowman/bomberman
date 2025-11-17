@@ -103,6 +103,8 @@ RIGHT_PRESS / RIGHT_RELEASE
 BOMB_PRESS
 ```
 
+<img width="1355" height="736" alt="Screenshot 2025-11-16 at 7 37 43 PM" src="https://github.com/user-attachments/assets/d4546aaf-1e2a-4ed0-b3de-40f0be79a59c" />
+
 ## Game Mechanics
 
 - **Bomb Timer**: 3 seconds before explosion
